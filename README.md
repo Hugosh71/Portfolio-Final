@@ -8,9 +8,13 @@ A huge thanks to Wawa Sensei for his tutorial video on how to make a 3D portfoli
 
 Licenses for 3d models I've used : 
 Sussy Imposter by J-Toastie [CC-BY] via Poly Pizza
+
 Laptop by Poly by Google [CC-BY] via Poly Pizza
+
 Pillow by Poly by Google [CC-BY] via Poly Pizza
+
 Window by Justin Randall [CC-BY] via Poly Pizza
+
 Window Blinds by Alex Safayan [CC-BY] via Poly Pizza
 
 
