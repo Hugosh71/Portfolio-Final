@@ -67,7 +67,7 @@ export const projects = [
     },
     {
         title:"PenCity",
-        url:"https://github.com/Hugosh71/PenCity",
+        url:"https://github.com/Karamouche/pencity",
         image:"projects/arcity.jpg",
         description:"Create your city with a pen using AR and AI (5th year final project)",
 
