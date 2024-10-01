@@ -50,7 +50,7 @@ const AboutSection = (props) => {
         <h1 className="text-4xl md:text-6xl font-extrabold leading-snug mt-8 md:mt-0">
             Hello I'm
             <br/>
-            <span className="bg-white px-1  italic">
+            <span className="">
                 Hugo Fanchini
             </span> 
             </h1>
@@ -68,7 +68,7 @@ const AboutSection = (props) => {
                     delay: 1.5,
                 }}
             >
-                    I'm a french 5th year engineering student at ESME SUDRIA.
+                    I'm an engineer specialized in Artificial Intelligence.
                 <br/>
                     I develop video games, AI and do 3D modeling in my free time.
             </motion.p>
@@ -258,7 +258,7 @@ const ProjectSection = () => {
                 >
                     ← Previous
                 </button>
-                <h2 className="text-5xl font-bold">Games and AI</h2>
+                <h2 className="text-5xl font-bold">Projects</h2>
                 <button
                     className="hover:text-indigo-800 transition-colors"
                     onClick={nextProject}
